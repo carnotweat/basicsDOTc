@@ -1,3 +1,4 @@
+/* c function w/o int main() , that prints print hello n/2*(n+1) times, compile with gcc -nostartfiles */
 #include<stdio.h>
 #include<stdlib.h>
  int f(int n)

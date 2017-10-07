@@ -1,3 +1,4 @@
+/* depth first search on BST */
 #include <stdio.h>
 
 #include <stdlib.h>
