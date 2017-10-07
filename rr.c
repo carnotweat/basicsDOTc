@@ -1,5 +1,6 @@
 // A naive recursive implementation of optimal binary 
 // search tree problem
+// recurrence relation
 #include <stdio.h>
 #include <limits.h>
  
