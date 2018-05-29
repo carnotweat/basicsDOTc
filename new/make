@@ -1,0 +1,5 @@
+---- X Makefile X----
+build:
+        gcc -o exec_name hbd.c
+run:
+    ./exec_name
